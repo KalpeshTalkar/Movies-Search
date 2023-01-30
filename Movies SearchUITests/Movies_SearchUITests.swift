@@ -2,7 +2,7 @@
 //  Movies_SearchUITests.swift
 //  Movies SearchUITests
 //
-//  Created by Prajakta Ambekar on 25/01/2023.
+//  Created by Kalpesh Talkar on 25/01/2023.
 //
 
 import XCTest
